@@ -1,6 +1,11 @@
+#ignore gitignore
+.gitignore
+
 #ignore Checkpoints
 .ipynb_checkpoints
 
 #ignore files
-.List_of_postal_codes_of_Canada:_M
-.Toronto_Q1.csv
+List_of_postal_codes_of_Canada:_M
+Geospatial_data
+Toronto_Q1.csv
+Toronto_Q2.csv
