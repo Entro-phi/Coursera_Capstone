@@ -4,6 +4,9 @@
 #ignore Checkpoints
 .ipynb_checkpoints
 
+#ignore config file
+config.py
+
 #ignore files
 List_of_postal_codes_of_Canada:_M
 Geospatial_data
