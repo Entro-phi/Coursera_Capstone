@@ -8,7 +8,7 @@
 config.py
 
 #ignore __pycache__
-__pycache__
+__pycache__/
 
 #ignore files
 List_of_postal_codes_of_Canada:_M
